@@ -1,4 +1,4 @@
-#⛩️ Content Based & Collaborative Filtering - Anime Recommender System ⛩️
+# ⛩️ Content Based & Collaborative Filtering - Anime Recommender System ⛩️
 ## (ฅ^•ﻌ•^ฅ) 
 
 
