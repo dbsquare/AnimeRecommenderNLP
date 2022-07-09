@@ -1,6 +1,6 @@
-# AnimeRecommenderNLP
+#⛩️ Content Based & Collaborative Filtering - Anime Recommender System ⛩️
 ## (ฅ^•ﻌ•^ฅ) 
-## ⛩️ Content Based & Collaborative Filtering - Anime Recommender System ⛩️
+
 
 ## Introduction
 
