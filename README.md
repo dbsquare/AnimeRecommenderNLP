@@ -59,14 +59,14 @@
 
 
 ### Table of Contents
-1. [Introduction]
-    1. [Datasets information]
-2. [`Anime` dataset]
-    1. [Cleaning](#cleaning)
-    2. [Treating the null values]
-3. [`Rating` dataset]
-4. [`Synopsis` dataset]
-    1. [Cleaning]
-    2. [NLP]
-    3. [Clustering]
-5. [The Recommender system]
+1. Introduction
+    1. Datasets information
+2. `Anime` dataset
+    1. Cleaning
+    2. Treating the null values
+3. `Rating` dataset
+4. `Synopsis` dataset
+    1. Cleaning
+    2. NLP
+    3. Clustering
+5. The Recommender system
