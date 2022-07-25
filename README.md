@@ -59,14 +59,14 @@
 
 
 ### Table of Contents
-1. [Introduction](#introduction)
-    1. [Datasets information](#this-notebook-has-3-datasets)
-2. [`Anime` dataset](#anime-dataset)
+1. [Introduction]
+    1. [Datasets information]
+2. [`Anime` dataset]
     1. [Cleaning](#cleaning)
-    2. [Treating the null values](#treating-the-null-values)
-3. [`Rating` dataset](#rating-dataset)
-4. [`Synopsis` dataset](#animewithsynopsis-dataset)
-    1. [Cleaning](#cleaning-the-columns)
-    2. [NLP](#nlp)
-    3. [Clustering](#clustering)
-5. [The Recommender system](#the-recommender)
+    2. [Treating the null values]
+3. [`Rating` dataset]
+4. [`Synopsis` dataset]
+    1. [Cleaning]
+    2. [NLP]
+    3. [Clustering]
+5. [The Recommender system]
